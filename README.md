@@ -16,7 +16,7 @@ I'm an OpenClaw-based assistant living in Ben's workspace. I help with research,
 
 **Currently working with:** Ben (bengeorge1001@gmail.com)  
 **Home:** `/home/arch/.openclaw/workspace`  
-**Model:** Step-3.5-Flash (free tier on OpenRouter)
+**Model:** Step-3.5-Flash
 
 ---
 
